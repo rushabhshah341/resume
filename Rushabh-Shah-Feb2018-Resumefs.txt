@@ -1,0 +1,74 @@
+RUSHABH SHAH
+
+ 
+
+ 
+
+ 
+
+Email : rushabhshah341©gmailcom Githubzhttps: //github.com/rushabhshah341
+Contact : +1—201—936—0590 LinkedIn: https://WWW.linkedin.com/in/rushabhshah341/
+EDUCATION
+. University at Albany, SUNY Albany, NY
+Master of Science in Computer Science,’ GPA: 3.50 Aug. 2017 7 Dec. 2018
+. U.V.Patel College of Engineering Gujarat, India
+Bachelor of Technology in Computer Science and Engineering; GPA: 3.54 (75/100) Aug. 2010 7 May. 2014
+EXPERIENCE
+University At Albany, SUNY Albany, NY
+Research Assistant Oct 2017 — Present
+
+0 Knowledge Forum: Developed Community and View management using Angular ui—sortable, Angular Canvas.
+Consisting drive API integration, Analytic Tools, Communities—View Management, Scaffold and Buildson
+management, RestAPI, MongooseJ S, ExpressJ S, AngularJ S, UndersoreJ S and N0de.js as middleware and
+MongoDB as DatabaseKnowledge Forum is an education web—portal on MEAN Stack.
+
+. Chronicsys Technologies Gujarat, India
+Senior Full Stack Developer Feb 2017 — July 2017
+
+O Empowered: Developed user module and quiz modules, Responsible for deliverable, Developing Analytic modules,
+Online Quiz, Aptitude Tests Using AngularJS, PassportJS, UndersoreJS, lodash, Gulp and Bower for client side
+Package management,Amaz0n RDS and DynamoDB as DatabaseEducation Portal with single page application for
+Empowered using MEAN.js.
+
+o Eaton Equipment: Developed B2B E—commerce Portal Using Zend Framework with KineticJS, PrototypeJS,
+AngularJ S, jQuery and SOAP API for frontend, MYSQL as backend providing machine schematic diagrams clicking
+on part numbers one can purchase machine parts in bulk. Maintaining Stocks, Orders, Customer Data, Cross sell,
+Up sell, Related Products, Filtering options, Brand Management, Amazon and Ebay marketplace Integration.
+
+. Chronicsys Technologies Gujarat, India
+Full Stack Developer May 2014 — Jan 2017
+O MyHousing: Implemented responsive MEAN Stack website for property owners and Users. Integrated Geo—code
+
+API to display property location on custom map. customer can search property based on locations, apply ﬁlters,
+request for purchase or renting property based on availability to property owner.
+
+0 Kiosk App: .NET MVC based app in RESTAPI provides data of portal with Angular material UI to android
+application with backend in MSSQL Database.
+
+0 Directory Listing App: built an app using Ionic, Cordova AngularJS and ﬁrebase. Listing for Clients with
+details management. Groups Search, CRUD, Admin module, contact module, connection module, optimization of
+application code, Heroku app deployment and maintainance of application.
+
+. Chronicsys Technologies Gujarat, India
+Software Engineer Intern Jan 2014 — Apr 2014
+
+0 Web Development - Java and PHP: Responsive Design in HTML5, CSS3, JQuery, Ajax, Javascript,
+Bootstrap, Wordpress, Magento based website training. Selenium web—driver testing, Server Management and
+Server request Rewrites.
+
+PROJECTS
+
+ 
+
+o MyStockAPI: Implemented JSF Java based stock management system with Jersey JaX—RS client used with RESTAPI
+for managing, updating, Buying, Selling, stocks online using Alphavantage API.
+0 Cluster monitoring System: CentOs Rocks Cluster Mamba v5.x Conﬁgured and monitored with ganglia tool for
+
+sending batch jobs to master node and Master node distributes cron jobs to child node based on scheduling to analyze
+system throughput and parallel executions.
+
+0 Clothing Store: Designed, Developed and maintained typical E—commerce store on Magento Wordpress CMS.
+
+0 SimpleDB: Java based lightweight Database System running all test cases for easy to implement and use dataase
+systems.
+
